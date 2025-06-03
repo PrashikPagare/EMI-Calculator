@@ -1,0 +1,33 @@
+D:\EMI Calculator\bin\Debug\net8.0-windows\EMI Calculator.exe
+D:\EMI Calculator\bin\Debug\net8.0-windows\EMI Calculator.deps.json
+D:\EMI Calculator\bin\Debug\net8.0-windows\EMI Calculator.runtimeconfig.json
+D:\EMI Calculator\bin\Debug\net8.0-windows\EMI Calculator.dll
+D:\EMI Calculator\bin\Debug\net8.0-windows\EMI Calculator.pdb
+D:\EMI Calculator\obj\Debug\net8.0-windows\EMI_Calculator.Form1.resources
+D:\EMI Calculator\obj\Debug\net8.0-windows\EMI Calculator.csproj.GenerateResource.cache
+D:\EMI Calculator\obj\Debug\net8.0-windows\EMI Calculator.GeneratedMSBuildEditorConfig.editorconfig
+D:\EMI Calculator\obj\Debug\net8.0-windows\EMI Calculator.AssemblyInfoInputs.cache
+D:\EMI Calculator\obj\Debug\net8.0-windows\EMI Calculator.AssemblyInfo.cs
+D:\EMI Calculator\obj\Debug\net8.0-windows\EMI Calculator.csproj.CoreCompileInputs.cache
+D:\EMI Calculator\obj\Debug\net8.0-windows\EMI Calculator.dll
+D:\EMI Calculator\obj\Debug\net8.0-windows\refint\EMI Calculator.dll
+D:\EMI Calculator\obj\Debug\net8.0-windows\EMI Calculator.pdb
+D:\EMI Calculator\obj\Debug\net8.0-windows\EMI Calculator.genruntimeconfig.cache
+D:\EMI Calculator\obj\Debug\net8.0-windows\ref\EMI Calculator.dll
+D:\EMI Calculator - exe\obj\Debug\net8.0-windows\EMI_Calculator.Form1.resources
+D:\EMI Calculator - exe\obj\Debug\net8.0-windows\EMI Calculator.csproj.GenerateResource.cache
+D:\EMI Calculator - exe\obj\Debug\net8.0-windows\EMI Calculator.dll
+D:\EMI Calculator - exe\obj\Debug\net8.0-windows\refint\EMI Calculator.dll
+D:\EMI Calculator - exe\obj\Debug\net8.0-windows\EMI Calculator.pdb
+D:\EMI Calculator - exe\bin\Debug\net8.0-windows\EMI Calculator.exe
+D:\EMI Calculator - exe\bin\Debug\net8.0-windows\EMI Calculator.deps.json
+D:\EMI Calculator - exe\bin\Debug\net8.0-windows\EMI Calculator.runtimeconfig.json
+D:\EMI Calculator - exe\bin\Debug\net8.0-windows\EMI Calculator.dll
+D:\EMI Calculator - exe\bin\Debug\net8.0-windows\EMI Calculator.pdb
+D:\EMI Calculator - exe\obj\Debug\net8.0-windows\EMI_Calculator.Properties.Resources.resources
+D:\EMI Calculator - exe\obj\Debug\net8.0-windows\EMI Calculator.GeneratedMSBuildEditorConfig.editorconfig
+D:\EMI Calculator - exe\obj\Debug\net8.0-windows\EMI Calculator.AssemblyInfoInputs.cache
+D:\EMI Calculator - exe\obj\Debug\net8.0-windows\EMI Calculator.AssemblyInfo.cs
+D:\EMI Calculator - exe\obj\Debug\net8.0-windows\EMI Calculator.csproj.CoreCompileInputs.cache
+D:\EMI Calculator - exe\obj\Debug\net8.0-windows\EMI Calculator.genruntimeconfig.cache
+D:\EMI Calculator - exe\obj\Debug\net8.0-windows\ref\EMI Calculator.dll
